@@ -1,0 +1,32 @@
+{
+  "id": "aa31cff6-ae38-4301-8bb2-374b7db3c47d",
+  "name": "al project",
+  "publisher": "omari christopher",
+  "version": "1.0.0.0",
+  "brief": "this is my first project",
+  "description": "this is my first Al extension",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://localhost:8080",
+  "logo": "resource/woliul-hasan-dy6skhk8ny4-unsplash.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 65400,
+      "to": 65600
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
