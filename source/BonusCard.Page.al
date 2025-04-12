@@ -65,7 +65,7 @@ page 65401 "MNB Bonus Card"
                 Image = Customer;
                 Runobject = page
                 "Customer Card";
-                RunPageLink = "No." = field("customer No.");
+                RunPageLink = "No." = field("Customer No.");
 
 
             }
